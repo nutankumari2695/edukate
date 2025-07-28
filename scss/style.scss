@@ -1,6 +1,6 @@
 /******* Bootstrap Theming ********/
 
-$primary: #2878EB;
+$primary: #28eb35;
 $secondary: #F14D5D;
 $light: #ECF4FF;
 $dark: #120F2D;
@@ -106,12 +106,12 @@ h6,
 }
 
 .jumbotron {
-    background: linear-gradient(rgba(40, 120, 235, 0.9), rgba(40, 120, 235, 0.9)), url(../img/header.jpg), no-repeat center center;
+    background:url(../img/header.jpg), no-repeat center center;
     background-size: cover;
 }
 
 .jumbotron.page-header {
-    background: linear-gradient(rgba(40, 120, 235, 0.9), rgba(40, 120, 235, 0.9)), url(../img/page-header.jpg), no-repeat center center;
+    background: url(../img/page-header.jpg), no-repeat center center;
     background-size: cover;
 }
 
