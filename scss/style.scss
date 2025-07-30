@@ -1,6 +1,6 @@
 /******* Bootstrap Theming ********/
 
-$primary: #28eb35;
+// $primary: #28eb35;
 $secondary: #F14D5D;
 $light: #ECF4FF;
 $dark: #120F2D;
@@ -106,12 +106,13 @@ h6,
 }
 
 .jumbotron {
-    background:url(../img/header.jpg), no-repeat center center;
+    // background-color: #28eb35 !important;
+    // background:url(../img/header.jpg), no-repeat center center;
     background-size: cover;
 }
 
 .jumbotron.page-header {
-    background: url(../img/page-header.jpg), no-repeat center center;
+    // background: url(../img/page-header.jpg), no-repeat center center;
     background-size: cover;
 }
 
